@@ -1,0 +1,1744 @@
+session start at 20231127 18:41:53
+session start at 20231127 19:01:05
+session start at 20231127 19:05:17
+20231127 19:05:36 load test.md
+20231127 19:05:41 stats
+session start at 20231127 19:06:19
+20231127 19:06:25 stats
+20231127 19:06:38 load test.md
+20231127 19:06:51 stats
+20231127 19:07:00 stats
+20231127 19:07:07 load test1.md
+20231127 19:07:13 stats all
+20231127 19:07:18 stats
+session start at 20231127 19:11:23
+20231127 19:11:28 load test.md
+20231127 19:11:30 stats
+20231127 19:11:36 load test1.md
+session start at 20231127 19:15:47
+20231127 19:15:47 load testcase1.md
+20231127 19:15:47 insert ## 程序设计
+20231127 19:15:47 append-head # 我的资源
+20231127 19:15:47 append-tail ### 软件设计
+20231127 19:15:47 append-tail #### 设计模式
+20231127 19:15:47 append-tail 1. 观察者模式
+20231127 19:15:47 append-tail 3. 单例模式
+20231127 19:15:47 insert 6 2. 策略模式
+20231127 19:15:47 delete 单例模式
+20231127 19:15:47 append-tail 3. 组合模式
+20231127 19:15:47 list-tree
+session start at 20231127 19:15:47
+20231127 19:15:47 load testcase1.md
+20231127 19:15:47 insert ## 程序设计
+20231127 19:15:47 append-head # 我的资源
+20231127 19:15:47 append-tail ### 软件设计
+20231127 19:15:47 append-tail #### 设计模式
+20231127 19:15:47 append-tail 1. 观察者模式
+20231127 19:15:47 append-tail 3. 单例模式
+20231127 19:15:47 insert 6 2. 策略模式
+20231127 19:15:47 delete 单例模式
+20231127 19:15:47 append-tail 3. 组合模式
+20231127 19:15:47 append-tail ## 工具箱
+20231127 19:15:47 append-tail ### Adobe
+20231127 19:15:47 list-tree
+20231127 19:15:47 save
+session start at 20231127 19:15:47
+20231127 19:15:47 load testcase2.md
+20231127 19:15:47 append-head # 旅⾏清单
+20231127 19:15:47 append-tail ## 亚洲
+20231127 19:15:47 append-tail 1. 中国
+20231127 19:15:47 append-tail 2. 日本
+20231127 19:15:47 delete 亚洲
+20231127 19:15:47 undo
+20231127 19:15:47 redo
+20231127 19:15:47 list-tree
+20231127 19:15:47 save
+session start at 20231127 19:15:47
+20231127 19:15:47 load testcase3.md
+20231127 19:15:47 append-head # 书籍推荐
+20231127 19:15:47 append-tail * 《深入理解计算机系统》
+20231127 19:15:47 undo
+20231127 19:15:47 append-tail ## 编程
+20231127 19:15:47 append-tail * 《设计模式的艺术》
+20231127 19:15:47 redo
+20231127 19:15:47 list-tree
+session start at 20231127 19:15:47
+20231127 19:15:47 load testcase3.md
+20231127 19:15:47 append-head # 书籍推荐
+20231127 19:15:47 append-tail * 《深入理解计算机系统》
+20231127 19:15:47 undo
+20231127 19:15:47 append-tail ## 编程
+20231127 19:15:47 append-tail * 《设计模式的艺术》
+20231127 19:15:47 redo
+20231127 19:15:47 append-tail * 《云原⽣：运⽤容器、函数计算和数据构建下⼀代应⽤》
+20231127 19:15:47 append-tail * 《深入理解Java虚拟机》
+20231127 19:15:47 undo
+20231127 19:15:47 redo
+20231127 19:15:47 list-tree
+20231127 19:15:47 save
+session start at 20231127 19:15:47
+20231127 19:15:47 load testcase4-1.md
+20231127 19:15:47 append-head # 旅⾏清单
+20231127 19:15:47 append-tail ## 亚洲
+20231127 19:15:47 save
+20231127 19:15:47 append-tail 1. 中国
+20231127 19:15:47 append-tail 2. ⽇本
+20231127 19:15:47 append-tail ## 欧洲
+20231127 19:15:47 load testcase3.md
+20231127 19:15:47 list-tree
+session start at 20231127 19:15:47
+20231127 19:15:47 load testcase4-2.md
+20231127 19:15:47 append-head # 旅⾏清单
+20231127 19:15:47 append-tail ## 亚洲
+20231127 19:15:47 save
+20231127 19:15:47 append-tail 1. 中国
+20231127 19:15:47 append-tail 2. ⽇本
+20231127 19:15:47 append-tail ## 欧洲
+20231127 19:15:47 load testcase3.md
+20231127 19:15:47 load testcase4-2.md
+20231127 19:15:47 list-tree
+session start at 20231127 19:15:47
+20231127 19:15:47 load testcase5-1.md
+20231127 19:15:47 append-head # 旅⾏清单
+20231127 19:15:47 append-tail ## 欧洲
+20231127 19:15:47 insert 2 ## 亚洲
+20231127 19:15:47 insert 3 1. 中国
+20231127 19:15:47 insert 4 2. ⽇本
+20231127 19:15:47 save
+20231127 19:15:47 undo
+20231127 19:15:47 list-tree
+session start at 20231127 19:15:47
+20231127 19:15:47 load testcase5-2.md
+20231127 19:15:47 append-head # 旅⾏清单
+20231127 19:15:47 append-tail ## 欧洲
+20231127 19:15:47 insert 2 ## 亚洲
+20231127 19:15:47 insert 3 1. 中国
+20231127 19:15:47 insert 4 2. ⽇本
+20231127 19:15:47 save
+20231127 19:15:47 undo
+20231127 19:15:47 delete 亚洲
+20231127 19:15:47 list-tree
+session start at 20231127 19:15:47
+20231127 19:15:47 load testcase5-3.md
+20231127 19:15:47 append-head # 旅⾏清单
+20231127 19:15:47 append-tail ## 欧洲
+20231127 19:15:47 insert 2 ## 亚洲
+20231127 19:15:47 insert 3 1. 中国
+20231127 19:15:47 insert 4 2. ⽇本
+20231127 19:15:47 save
+20231127 19:15:47 undo
+20231127 19:15:47 delete 亚洲
+20231127 19:15:47 history 2
+session start at 20231127 19:15:47
+20231127 19:15:47 load testcase5-4.md
+20231127 19:15:47 append-head # 旅⾏清单
+20231127 19:15:47 append-tail ## 欧洲
+20231127 19:15:47 insert 2 ## 亚洲
+20231127 19:15:47 insert 3 1. 中国
+20231127 19:15:47 insert 4 2. ⽇本
+20231127 19:15:47 save
+20231127 19:15:47 undo
+20231127 19:15:47 delete 亚洲
+20231127 19:15:47 undo
+20231127 19:15:47 list-tree
+session start at 20231127 19:15:47
+20231127 19:15:47 load testcase5-5.md
+20231127 19:15:47 append-head # 旅⾏清单
+20231127 19:15:47 append-tail ## 欧洲
+20231127 19:15:47 insert 2 ## 亚洲
+20231127 19:15:47 insert 3 1. 中国
+20231127 19:15:47 insert 4 2. ⽇本
+20231127 19:15:47 save
+20231127 19:15:47 undo
+20231127 19:15:47 delete 亚洲
+20231127 19:15:47 undo
+20231127 19:15:47 redo
+20231127 19:15:47 list-tree
+session start at 20231127 19:15:47
+20231127 19:15:47 load testcase5-6.md
+20231127 19:15:47 append-head # 旅⾏清单
+20231127 19:15:47 append-tail ## 欧洲
+20231127 19:15:47 insert 2 ## 亚洲
+20231127 19:15:47 insert 3 1. 中国
+20231127 19:15:47 insert 4 2. ⽇本
+20231127 19:15:47 save
+20231127 19:15:47 undo
+20231127 19:15:47 delete 亚洲
+20231127 19:15:47 undo
+20231127 19:15:47 redo
+20231127 19:15:47 redo
+20231127 19:15:47 list-tree
+20231127 19:15:47 save
+session start at 20231127 19:47:17
+session start at 20231129 23:20:16
+session start at 20231129 23:20:44
+session start at 20231129 23:21:24
+session start at 20231129 23:51:14
+20231129 23:51:23 load test.md
+session start at 20231129 23:52:03
+20231129 23:52:10 load test.md
+20231129 23:52:12 list
+20231129 23:52:22 insert # 文章
+20231129 23:52:24 list
+20231129 23:52:54 load testcase1.md
+session start at 20231130 00:02:18
+20231130 00:02:34 load test.md
+20231130 00:02:56 insert * hjkh
+20231130 00:02:58 list
+20231130 00:03:11 load testcase1.md
+20231130 00:03:28 insert * dskfh
+session start at 20231130 16:04:54
+20231130 16:05:11 load test.md
+20231130 16:05:13 list
+20231130 16:05:29 insert ## test
+20231130 16:05:31 list
+20231130 16:05:41 load test1.md
+20231130 16:05:43 list
+20231130 16:05:50 insert ## test1
+20231130 16:06:16 list
+20231130 16:06:41 list
+session start at 20231130 16:14:42
+20231130 16:14:47 load test.md
+20231130 16:15:09 load test.md
+20231130 16:15:21 insert # dsfjh
+session start at 20231130 16:20:44
+20231130 16:20:52 load test.md
+20231130 16:20:54 list
+20231130 16:21:03 insert ### sdhjf
+session start at 20231130 16:23:41
+20231130 16:23:55 load test.md
+20231130 16:24:01 insert # test
+20231130 16:24:15 load test1.md
+20231130 16:24:28 insert # dsjkf
+20231130 16:24:31 list
+20231130 16:25:03 load test1.md
+20231130 16:25:17 insert # test1
+20231130 16:25:19 list
+20231130 16:25:24 save
+20231130 16:25:37 load test1.md
+20231130 16:25:39 list
+session start at 20231130 16:32:59
+session start at 20231130 16:34:31
+session start at 20231130 16:42:38
+20231130 16:42:51 load test.md
+20231130 16:42:54 list
+20231130 16:42:59 insert # test
+20231130 16:43:01 list
+20231130 16:43:09 load test1.md
+20231130 16:43:11 list
+20231130 16:43:19 insert ## test1
+20231130 16:43:21 list
+20231130 16:43:35 save
+20231130 16:43:35 save
+session start at 20231130 16:43:55
+session start at 20231130 16:44:31
+session start at 20231130 16:45:44
+20231130 16:45:49 load test.md
+20231130 16:45:51 list
+20231130 16:45:59 insert # sgdhj
+20231130 16:46:04 load test1.md
+20231130 16:46:05 list
+20231130 16:46:10 insert # dhjv
+20231130 16:46:13 list-tree
+session start at 20231130 16:58:01
+session start at 20231130 21:34:32
+20231130 21:34:54 load test.md
+session start at 20231130 21:35:52
+20231130 21:35:56 load test.md
+session start at 20231130 21:36:33
+20231130 21:36:39 load test.md
+session start at 20231130 21:38:18
+20231130 21:38:26 load test.md
+session start at 20231130 21:38:51
+20231130 21:38:56 load test.md
+20231130 21:39:10 list
+session start at 20231130 21:41:11
+20231130 21:41:18 load test.md
+20231130 21:42:35 load test1.md
+session start at 20231130 21:47:58
+20231130 21:48:13 load /data/test.md
+session start at 20231130 21:49:55
+20231130 21:50:07 load /data/test.md
+session start at 20231130 21:50:26
+20231130 21:50:33 load /data/test.md
+session start at 20231130 21:51:11
+20231130 21:51:19 load /data/test.md
+session start at 20231130 21:51:35
+20231130 21:51:44 load /data/test.md
+20231130 21:51:55 load \data\test.md
+session start at 20231130 21:52:33
+20231130 21:52:38 load test.md
+session start at 20231130 22:22:30
+20231130 22:22:35 load test.md
+20231130 22:22:47 load test1.md
+session start at 20231130 22:24:25
+20231130 22:24:33 load test.md
+20231130 22:24:37 load test1.md
+session start at 20231130 22:25:30
+20231130 22:25:36 load test.md
+20231130 22:25:40 load test1.md
+session start at 20231130 22:28:34
+20231130 22:28:40 load test.md
+20231130 22:28:47 load test1.md
+session start at 20231130 22:30:53
+20231130 22:31:02 load test.md
+session start at 20231130 22:31:37
+20231130 22:31:43 load test.md
+20231130 22:31:49 load test1.md
+20231130 22:32:15 insert # dhskj
+20231130 22:32:24 list
+session start at 20231130 22:48:56
+20231130 22:50:04 load test.md
+20231130 22:50:06 list
+session start at 20231130 22:55:43
+20231130 22:56:11 load test1.md
+20231130 22:56:20 append-head # 旅行清单
+20231130 22:56:30 append-tail ## 亚洲
+20231130 22:56:42 append-tail 1. 中国
+20231130 22:56:51 append-tail 2. 日本
+20231130 22:57:02 load test2.md
+20231130 22:57:11 append-head # 书籍推荐
+20231130 22:57:19 append-tail ## 编程
+20231130 22:57:28 append-tail * 《设计模式的艺术》
+20231130 22:57:39 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231130 22:57:49 append-tail * 《深入理解Java虚拟机》
+20231130 22:58:01 list-tree
+20231130 22:58:13 list-workspace
+20231130 22:58:29 save
+20231130 22:58:39 list-workspace
+20231130 22:58:52 open test1
+20231130 22:58:56 list-workspace
+session start at 20231130 22:59:31
+20231130 22:59:40 load test3.md
+20231130 22:59:51 insert ## 程序设计
+20231130 23:00:00 append-head # 我的资源
+20231130 23:00:11 append-tail ### 软件设计
+20231130 23:00:23 load test4.md
+20231130 23:00:31 append-head # 大学合集
+20231130 23:00:39 append-tail 1. 复旦大学
+20231130 23:00:47 append-tail 2. 上海交通大学
+20231130 23:00:57 save
+20231130 23:00:57 close
+20231130 23:01:09 open test3
+20231130 23:01:19 list-workspace
+20231130 23:01:24 save
+20231130 23:01:24 exit
+session start at 20231130 23:01:58
+20231130 23:02:13 load test5.md
+20231130 23:02:21 append-head # 书籍推荐
+20231130 23:02:29 append-tail * 《深入理解计算机系统》
+20231130 23:02:31 ls
+session start at 20231130 23:03:06
+20231130 23:03:18 load test6.md
+20231130 23:03:26 insert ## 程序设计
+20231130 23:03:34 append-head # 我的资源
+20231130 23:03:40 append-tail ### 软件设计
+20231130 23:03:42 save
+20231130 23:03:51 load test7.md
+20231130 23:03:58 append-head # 大学合集
+20231130 23:04:11 append-tail 1. 复旦大学
+20231130 23:04:19 append-tail 2. 上海交通大学
+20231130 23:04:23 undo
+20231130 23:04:26 list-tree
+20231130 23:04:32 save
+20231130 23:04:43 list-workspace
+20231130 23:04:47 exit
+session start at 20231130 23:06:33
+20231130 23:06:45 load test6.md
+20231130 23:07:05 insert ## 程序设计
+20231130 23:07:13 save
+20231130 23:07:23 load test7.md
+20231130 23:07:31 list-workspace
+session start at 20231130 23:14:09
+20231130 23:14:20 load test6.md
+20231130 23:14:25 insert # dsjh
+20231130 23:14:31 load test7.md
+20231130 23:14:36 list-workspace
+20231130 23:14:47 save
+session start at 20231130 23:16:08
+20231130 23:16:13 load test6.md
+20231130 23:16:15 list
+20231130 23:16:20 insert # sdghdshg
+20231130 23:16:25 load test7.md
+20231130 23:16:33 insert # hdsjhg
+20231130 23:16:37 save
+20231130 23:16:37 close
+session start at 20231130 23:18:41
+20231130 23:18:53 load test6.md
+20231130 23:18:58 list-tree
+20231130 23:19:03 insert # gdshgd
+20231130 23:19:07 close
+20231130 23:19:13 load test7.md
+20231130 23:19:21 list-workspace
+20231130 23:19:27 load test6.md
+20231130 23:19:31 exit
+session start at 20231130 23:19:38
+session start at 20231130 23:24:39
+session start at 20231130 23:25:07
+20231130 23:25:13 load test6.md
+20231130 23:25:16 history
+20231130 23:25:25 load test7.md
+20231130 23:25:28 history
+20231130 23:25:33 insert # hsdjg
+20231130 23:25:37 open test6
+20231130 23:25:39 history
+20231130 23:25:43 stats
+20231130 23:25:54 stats current
+20231130 23:26:00 list-workspace
+session start at 20231130 23:47:17
+20231130 23:47:45 load test6.md
+20231130 23:48:02 insert ## 程序设计
+20231130 23:48:12 append-head # 我的资源
+20231130 23:48:21 append-tail ### 软件设计
+20231130 23:48:30 save
+20231130 23:48:38 load test7.md
+20231130 23:48:47 append-head # 大学合集
+20231130 23:49:01 append-tail 1. 复旦大学
+20231130 23:49:10 append-tail 2. 上海交通大学
+20231130 23:49:12 undo
+20231130 23:49:24 list-tree
+20231130 23:49:40 save
+20231130 23:49:50 exit
+20231130 23:50:01 list-workspace
+20231130 23:50:03 list
+20231130 23:50:21 redo
+20231130 23:50:26 list-tree
+session start at 20231130 23:52:33
+20231130 23:52:52 load test6.md
+20231130 23:53:00 insert ## 程序设计
+20231130 23:53:08 append-head # 我的资源
+20231130 23:53:18 append-tail ### 软件设计
+20231130 23:53:24 save
+20231130 23:53:29 load test7.md
+20231130 23:53:32 list
+20231130 23:53:33 ls
+20231130 23:53:44 append-head # 大学合集
+20231130 23:53:56 append-tail 1. 复旦大学
+20231130 23:54:04 append-tail 2. 上海交通大学
+20231130 23:54:06 list
+20231130 23:54:09 undo
+20231130 23:54:10 list
+20231130 23:54:20 list-tree
+20231130 23:54:22 save
+20231130 23:54:24 exit
+20231130 23:54:38 list-workspace
+20231130 23:54:43 list-tree
+20231130 23:54:45 redo
+20231130 23:54:49 list-tree
+20231130 23:55:07 list-tree
+20231130 23:55:12 list-workspace
+20231130 23:56:47 list-workspace
+20231130 23:56:53 history
+20231130 23:57:03 list-tree
+20231130 23:57:09 redo
+20231130 23:57:13 list-tree
+20231130 23:57:18 list-workspace
+20231130 23:57:22 exit
+20231130 23:57:55 list-workspace
+20231130 23:58:00 undo
+20231130 23:58:04 list-workspace
+20231130 23:58:07 list
+20231130 23:58:09 redo
+20231130 23:58:14 list-workspace
+20231130 23:58:57 list
+20231130 23:59:01 insert # dshj
+20231130 23:59:06 list-workspace
+20231201 00:00:09 load test5.md
+20231201 00:00:13 list-workspace
+20231201 00:03:35 list-workspace
+20231201 00:03:41 list
+20231201 00:03:45 undo
+20231201 00:03:46 list
+20231201 00:03:52 load test5.md
+20231201 00:03:57 list-workspace
+20231201 00:04:02 list-tree
+20231201 00:04:09 insert # hsdfjh
+20231201 00:04:13 list-workspace
+20231201 00:04:23 list-tree
+20231201 00:04:26 undo
+20231201 00:04:29 list-tree
+20231201 00:04:37 open test7
+20231201 00:04:42 list-workspace
+20231201 00:04:46 list-tree
+20231201 00:04:50 redo
+20231201 00:04:53 list-tree
+20231201 00:04:56 undo
+20231201 00:05:05 save
+20231201 00:05:05 save
+20231201 00:05:05 exit
+20231201 00:05:15 list-workspace
+20231201 00:05:20 list-tree
+20231201 00:05:23 redo
+20231201 00:05:26 list-tree
+20231201 00:05:30 open test5
+20231201 00:05:32 list
+20231201 00:05:35 undo
+20231201 00:05:37 list
+20231201 00:05:39 redo
+20231201 00:05:41 list
+20231201 00:05:44 list-tree
+20231201 00:05:49 exit
+20231201 00:06:01 ls
+20231201 00:06:10 history
+20231201 00:06:15 stats
+20231201 00:06:18 stats all
+20231201 00:06:27 stats
+20231201 00:06:35 open test7
+20231201 00:06:38 stats
+20231201 00:06:48 save
+20231201 00:06:48 save
+20231201 00:06:48 exit
+session start at 20231201 00:16:51
+session start at 20231201 00:17:45
+20231201 00:17:58 load test6.md
+20231201 00:18:06 insert ## 程序设计
+20231201 00:18:15 append-head # 我的资源
+20231201 00:18:23 append-tail ### 软件设计
+20231201 00:18:30 save
+20231201 00:18:38 load test7.md
+20231201 00:18:46 append-head # 大学合集
+20231201 00:18:53 append-tail 1. 复旦大学
+20231201 00:19:03 append-tail 2. 上海交通大学
+20231201 00:19:05 undo
+20231201 00:19:16 list-tree
+20231201 00:19:24 save
+20231201 00:19:26 exit
+20231201 00:19:38 list-workspace
+20231201 00:19:48 list-tree
+20231201 00:19:50 redo
+20231201 00:19:54 list-tree
+20231201 00:20:02 save
+20231201 00:20:02 exit
+20231202 14:00:35 list-workspace
+20231202 14:00:41 open test6
+20231202 14:00:54 list-workspace
+20231202 14:01:01 list
+20231202 14:01:16 exit
+20231202 14:01:23 list
+20231202 14:01:34 list-workspace
+20231202 14:11:14 ls
+20231202 14:11:21 exit
+session start at 20231202 14:52:52
+20231202 14:53:19 load test6.md
+20231202 14:53:28 insert ## 程序设计
+20231202 14:53:30 stats
+20231202 14:53:42 append-head # 我的资源
+20231202 14:53:50 append-tail ### 软件设计
+20231202 14:53:55 save
+20231202 14:54:03 load test7.md
+20231202 14:54:08 stats
+20231202 14:54:13 stats all
+20231202 14:54:38 append-head # 大学合集
+20231202 14:54:48 append-tail 1. 复旦大学
+20231202 14:55:01 append-tail 2. 上海交通大学
+20231202 14:55:06 undo
+20231202 14:55:07 save
+20231202 14:55:17 list-tree
+20231202 14:55:22 exit
+session start at 20231202 14:57:38
+20231202 14:57:41 stats
+20231202 14:57:47 stats all
+20231202 14:57:52 close
+session start at 20231202 15:01:17
+20231202 15:01:19 stats
+20231202 15:01:23 close
+20231202 15:01:25 stats
+session start at 20231202 15:03:24
+20231202 15:03:29 list-workspace
+20231202 15:03:31 stats
+20231202 15:03:37 stats all
+20231202 15:04:06 open test6
+20231202 15:04:09 stats
+20231202 15:04:12 exit
+session start at 20231202 15:04:17
+20231202 15:04:21 list
+20231202 15:04:26 open test7
+20231202 15:04:27 list
+20231202 15:04:29 redo
+20231202 15:04:32 list-tree
+20231202 15:04:38 save
+20231202 15:04:38 close
+20231202 15:04:40 exit
+session start at 20231202 16:00:47
+session start at 20231202 16:00:47
+20231202 16:00:57 ls
+session start at 20231202 16:01:21
+session start at 20231202 16:01:21
+20231202 16:01:29 load test1.md
+20231202 16:01:37 append-head # 旅行清单
+20231202 16:01:39 ls
+20231202 16:01:42 list
+20231202 16:01:53 append-tail ## 亚洲
+20231202 16:02:02 append-tail 1. 中国
+20231202 16:02:10 append-tail 2. 日本
+20231202 16:02:19 load test2.md
+session start at 20231202 16:04:53
+20231202 16:05:00 load test1.md
+session start at 20231202 16:05:38
+20231202 16:05:42 load test1.md
+session start at 20231202 16:06:19
+20231202 16:06:24 load test1.md
+session start at 20231202 16:06:43
+20231202 16:06:48 load test1.md
+session start at 20231202 16:07:45
+20231202 16:07:50 load test1.md
+session start at 20231202 16:08:30
+20231202 16:08:41 load test1.md
+session start at 20231202 16:09:55
+20231202 16:10:00 load test1.md
+20231202 16:10:04 list-workspace
+session start at 20231202 16:11:03
+20231202 16:11:08 load test1.md
+20231202 16:11:13 list-workspace
+session start at 20231202 16:15:59
+20231202 16:15:59 load test2.md
+session start at 20231202 16:17:05
+20231202 16:17:05 load test1.md
+20231202 16:17:05 append-head # 旅行清单
+20231202 16:17:05 append-tail ## 亚洲
+20231202 16:17:05 append-tail 1. 中国
+20231202 16:17:05 append-tail 2. 日本
+20231202 16:17:05 load test2.md
+20231202 16:17:05 append-head # 书籍推荐
+20231202 16:17:05 append-tail ## 编程
+20231202 16:17:05 append-tail * 《设计模式的艺术》
+20231202 16:17:05 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231202 16:17:05 append-tail * 《深入理解Java虚拟机》
+20231202 16:17:05 list-tree
+session start at 20231202 16:18:04
+20231202 16:18:04 load test1.md
+20231202 16:18:04 append-head # 旅行清单
+20231202 16:18:04 append-tail ## 亚洲
+20231202 16:18:04 append-tail 1. 中国
+20231202 16:18:04 append-tail 2. 日本
+20231202 16:18:04 load test2.md
+20231202 16:18:04 append-head # 书籍推荐
+20231202 16:18:04 append-tail ## 编程
+20231202 16:18:04 append-tail * 《设计模式的艺术》
+20231202 16:18:04 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231202 16:18:04 append-tail * 《深入理解Java虚拟机》
+20231202 16:18:04 list-tree
+session start at 20231202 16:19:00
+20231202 16:19:00 load test1.md
+20231202 16:19:00 append-head # 旅行清单
+20231202 16:19:00 append-tail ## 亚洲
+20231202 16:19:00 append-tail 1. 中国
+20231202 16:19:00 append-tail 2. 日本
+20231202 16:19:00 load test2.md
+20231202 16:19:00 append-head # 书籍推荐
+20231202 16:19:00 append-tail ## 编程
+20231202 16:19:00 append-tail * 《设计模式的艺术》
+20231202 16:19:00 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231202 16:19:00 append-tail * 《深入理解Java虚拟机》
+20231202 16:19:00 list-tree
+session start at 20231202 16:21:05
+20231202 16:21:05 load test1.md
+20231202 16:21:05 append-head # 旅行清单
+20231202 16:21:05 append-tail ## 亚洲
+20231202 16:21:05 append-tail 1. 中国
+20231202 16:21:05 append-tail 2. 日本
+20231202 16:21:05 load test2.md
+20231202 16:21:05 append-head # 书籍推荐
+20231202 16:21:05 append-tail ## 编程
+20231202 16:21:05 append-tail * 《设计模式的艺术》
+20231202 16:21:05 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231202 16:21:05 append-tail * 《深入理解Java虚拟机》
+20231202 16:21:05 list-tree
+session start at 20231202 16:22:02
+20231202 16:22:02 load test1.md
+20231202 16:22:02 append-head # 旅行清单
+20231202 16:22:02 append-tail ## 亚洲
+20231202 16:22:02 append-tail 1. 中国
+20231202 16:22:02 append-tail 2. 日本
+20231202 16:22:02 load test2.md
+20231202 16:22:02 append-head # 书籍推荐
+20231202 16:22:02 append-tail ## 编程
+20231202 16:22:02 append-tail * 《设计模式的艺术》
+20231202 16:22:02 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231202 16:22:02 append-tail * 《深入理解Java虚拟机》
+20231202 16:22:02 list-tree
+session start at 20231202 16:22:27
+20231202 16:22:27 load test1.md
+20231202 16:22:27 append-head # 旅行清单
+20231202 16:22:27 append-tail ## 亚洲
+20231202 16:22:27 append-tail 1. 中国
+20231202 16:22:27 append-tail 2. 日本
+20231202 16:22:27 load test2.md
+20231202 16:22:27 append-head # 书籍推荐
+20231202 16:22:27 append-tail ## 编程
+20231202 16:22:27 append-tail * 《设计模式的艺术》
+20231202 16:22:27 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231202 16:22:27 append-tail * 《深入理解Java虚拟机》
+20231202 16:22:27 list-tree
+session start at 20231202 16:23:06
+20231202 16:23:06 load test1.md
+20231202 16:23:06 append-head # 旅行清单
+20231202 16:23:06 append-tail ## 亚洲
+20231202 16:23:06 append-tail 1. 中国
+20231202 16:23:06 append-tail 2. 日本
+20231202 16:23:06 load test2.md
+20231202 16:23:06 append-head # 书籍推荐
+20231202 16:23:06 append-tail ## 编程
+20231202 16:23:06 append-tail * 《设计模式的艺术》
+20231202 16:23:06 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231202 16:23:06 append-tail * 《深入理解Java虚拟机》
+20231202 16:23:06 list-tree
+session start at 20231202 16:24:39
+20231202 16:24:39 load test1.md
+20231202 16:24:39 append-head # 旅行清单
+20231202 16:24:39 append-tail ## 亚洲
+20231202 16:24:39 append-tail 1. 中国
+20231202 16:24:39 append-tail 2. 日本
+20231202 16:24:39 load test2.md
+20231202 16:24:39 append-head # 书籍推荐
+20231202 16:24:39 append-tail ## 编程
+20231202 16:24:39 append-tail * 《设计模式的艺术》
+20231202 16:24:39 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231202 16:24:39 append-tail * 《深入理解Java虚拟机》
+20231202 16:24:39 list-tree
+20231202 16:24:39 list-workspace
+session start at 20231202 16:25:27
+20231202 16:25:27 load test1.md
+20231202 16:25:27 append-head # 旅行清单
+20231202 16:25:27 append-tail ## 亚洲
+20231202 16:25:27 append-tail 1. 中国
+20231202 16:25:27 append-tail 2. 日本
+20231202 16:25:27 load test2.md
+20231202 16:25:27 append-head # 书籍推荐
+20231202 16:25:27 append-tail ## 编程
+20231202 16:25:27 append-tail * 《设计模式的艺术》
+20231202 16:25:27 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231202 16:25:27 append-tail * 《深入理解Java虚拟机》
+20231202 16:25:27 list-tree
+20231202 16:25:27 list-workspace
+session start at 20231202 16:26:49
+20231202 16:26:49 load test1.md
+20231202 16:26:49 append-head # 旅行清单
+20231202 16:26:49 append-tail ## 亚洲
+20231202 16:26:49 append-tail 1. 中国
+20231202 16:26:49 append-tail 2. 日本
+20231202 16:26:49 load test2.md
+20231202 16:26:49 append-head # 书籍推荐
+20231202 16:26:49 append-tail ## 编程
+20231202 16:26:49 append-tail * 《设计模式的艺术》
+20231202 16:26:49 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231202 16:26:49 append-tail * 《深入理解Java虚拟机》
+20231202 16:26:49 list-tree
+20231202 16:26:49 list-workspace
+20231202 16:26:49 save
+20231202 16:26:49 list-workspace
+session start at 20231202 16:28:06
+20231202 16:28:06 load test1.md
+20231202 16:28:06 append-head # 旅行清单
+20231202 16:28:06 append-tail ## 亚洲
+20231202 16:28:06 append-tail 1. 中国
+20231202 16:28:06 append-tail 2. 日本
+20231202 16:28:06 load test2.md
+20231202 16:28:06 append-head # 书籍推荐
+20231202 16:28:06 append-tail ## 编程
+20231202 16:28:06 append-tail * 《设计模式的艺术》
+20231202 16:28:06 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231202 16:28:06 append-tail * 《深入理解Java虚拟机》
+20231202 16:28:06 list-tree
+20231202 16:28:06 list-workspace
+20231202 16:28:06 save
+20231202 16:28:06 list-workspace
+20231202 16:28:06 list-workspace
+session start at 20231202 16:28:43
+20231202 16:28:43 load test1.md
+20231202 16:28:43 append-head # 旅行清单
+20231202 16:28:43 append-tail ## 亚洲
+20231202 16:28:43 append-tail 1. 中国
+20231202 16:28:43 append-tail 2. 日本
+20231202 16:28:43 load test2.md
+20231202 16:28:43 append-head # 书籍推荐
+20231202 16:28:43 append-tail ## 编程
+20231202 16:28:43 append-tail * 《设计模式的艺术》
+20231202 16:28:43 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231202 16:28:43 append-tail * 《深入理解Java虚拟机》
+20231202 16:28:43 list-tree
+20231202 16:28:43 list-workspace
+20231202 16:28:43 save
+20231202 16:28:43 list-workspace
+20231202 16:28:43 open test1
+20231202 16:28:43 list-workspace
+session start at 20231202 16:53:11
+20231202 16:53:11 load test3.md
+20231202 16:53:11 insert ## 程序设计
+20231202 16:53:11 append-head # 我的资源
+20231202 16:53:11 append-tail ### 软件设计
+20231202 16:53:11 load test4.md
+20231202 16:53:11 append-head # 大学合集
+20231202 16:53:11 append-tail 1. 复旦大学
+20231202 16:53:11 append-tail 2. 上海交通大学
+session start at 20231202 16:53:50
+20231202 16:53:50 load test3.md
+20231202 16:53:50 insert ## 程序设计
+20231202 16:53:50 append-head # 我的资源
+20231202 16:53:50 append-tail ### 软件设计
+20231202 16:53:50 load test4.md
+20231202 16:53:50 append-head # 大学合集
+20231202 16:53:50 append-tail 1. 复旦大学
+20231202 16:53:50 append-tail 2. 上海交通大学
+session start at 20231202 16:54:37
+20231202 16:54:37 load test3.md
+20231202 16:54:37 insert ## 程序设计
+20231202 16:54:37 append-head # 我的资源
+20231202 16:54:37 append-tail ### 软件设计
+20231202 16:54:37 load test4.md
+20231202 16:54:37 append-head # 大学合集
+20231202 16:54:37 append-tail 1. 复旦大学
+20231202 16:54:37 append-tail 2. 上海交通大学
+20231202 16:54:52 exit
+session start at 20231202 16:55:00
+20231202 16:55:00 load test3.md
+20231202 16:55:00 insert ## 程序设计
+20231202 16:55:00 append-head # 我的资源
+20231202 16:55:00 append-tail ### 软件设计
+20231202 16:55:00 load test4.md
+20231202 16:55:00 append-head # 大学合集
+20231202 16:55:00 append-tail 1. 复旦大学
+20231202 16:55:00 append-tail 2. 上海交通大学
+session start at 20231202 16:57:07
+20231202 16:57:07 load test1.md
+20231202 16:57:07 append-head # 旅行清单
+20231202 16:57:07 append-tail ## 亚洲
+20231202 16:57:07 append-tail 1. 中国
+20231202 16:57:07 append-tail 2. 日本
+20231202 16:57:07 load test2.md
+20231202 16:57:07 append-head # 书籍推荐
+20231202 16:57:07 append-tail ## 编程
+20231202 16:57:07 append-tail * 《设计模式的艺术》
+20231202 16:57:07 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231202 16:57:07 append-tail * 《深入理解Java虚拟机》
+20231202 16:57:07 list-tree
+20231202 16:57:07 list-workspace
+20231202 16:57:07 save
+20231202 16:57:07 list-workspace
+20231202 16:57:07 open test1
+20231202 16:57:07 list-workspace
+session start at 20231202 16:57:15
+20231202 16:57:15 load test3.md
+20231202 16:57:15 insert ## 程序设计
+20231202 16:57:15 append-head # 我的资源
+20231202 16:57:15 append-tail ### 软件设计
+20231202 16:57:15 load test4.md
+20231202 16:57:15 append-head # 大学合集
+20231202 16:57:15 append-tail 1. 复旦大学
+20231202 16:57:15 append-tail 2. 上海交通大学
+session start at 20231202 16:58:16
+20231202 16:58:16 load test3.md
+20231202 16:58:16 insert ## 程序设计
+20231202 16:58:16 append-head # 我的资源
+20231202 16:58:16 append-tail ### 软件设计
+20231202 16:58:16 load test4.md
+20231202 16:58:16 append-head # 大学合集
+20231202 16:58:16 append-tail 1. 复旦大学
+20231202 16:58:16 append-tail 2. 上海交通大学
+session start at 20231202 16:58:38
+20231202 16:58:38 load test3.md
+20231202 16:58:38 insert ## 程序设计
+20231202 16:58:38 append-head # 我的资源
+20231202 16:58:38 append-tail ### 软件设计
+20231202 16:58:38 load test4.md
+20231202 16:58:38 append-head # 大学合集
+20231202 16:58:38 append-tail 1. 复旦大学
+20231202 16:58:38 append-tail 2. 上海交通大学
+session start at 20231202 16:59:15
+20231202 16:59:15 load test3.md
+20231202 16:59:15 insert ## 程序设计
+20231202 16:59:15 append-head # 我的资源
+20231202 16:59:15 append-tail ### 软件设计
+20231202 16:59:15 load test4.md
+20231202 16:59:15 append-head # 大学合集
+20231202 16:59:15 append-tail 1. 复旦大学
+20231202 16:59:15 append-tail 2. 上海交通大学
+session start at 20231202 16:59:59
+20231202 17:00:04 load test1.md
+20231202 17:00:09 insert # dhj
+20231202 17:00:15 save
+20231202 17:00:15 close
+session start at 20231202 17:00:34
+20231202 17:00:44 load test3.md
+20231202 17:00:51 insert ## 程序设计
+20231202 17:00:57 append-head # 我的资源
+20231202 17:01:06 append-tail ### 软件设计
+20231202 17:01:16 load test4.md
+20231202 17:01:23 append-head # 大学合集
+20231202 17:01:28 close
+20231202 17:01:36 exit
+session start at 20231202 17:02:43
+20231202 17:02:43 load test1.md
+20231202 17:02:43 insert # sgdh
+session start at 20231202 17:03:55
+20231202 17:03:55 load test3.md
+20231202 17:03:55 insert ## 程序设计
+20231202 17:03:55 append-head # 我的资源
+20231202 17:03:55 append-tail ### 软件设计
+20231202 17:03:55 load test4.md
+20231202 17:03:55 append-head # 大学合集
+20231202 17:03:55 append-tail 1. 复旦大学
+20231202 17:03:55 append-tail 2. 上海交通大学
+session start at 20231202 17:04:34
+20231202 17:04:34 load test3.md
+20231202 17:04:34 insert ## 程序设计
+20231202 17:04:34 append-head # 我的资源
+20231202 17:04:34 append-tail ### 软件设计
+20231202 17:04:34 load test4.md
+20231202 17:04:34 append-head # 大学合集
+20231202 17:04:34 append-tail 1. 复旦大学
+20231202 17:04:34 append-tail 2. 上海交通大学
+session start at 20231202 17:06:37
+20231202 17:06:37 load test3.md
+20231202 17:06:37 insert ## 程序设计
+20231202 17:06:37 append-head # 我的资源
+20231202 17:06:37 append-tail ### 软件设计
+20231202 17:06:37 load test4.md
+20231202 17:06:37 append-head # 大学合集
+20231202 17:06:37 append-tail 1. 复旦大学
+20231202 17:06:37 append-tail 2. 上海交通大学
+session start at 20231202 17:07:00
+20231202 17:07:00 load test3.md
+20231202 17:07:00 insert ## 程序设计
+20231202 17:07:00 append-head # 我的资源
+20231202 17:07:00 append-tail ### 软件设计
+20231202 17:07:00 load test4.md
+20231202 17:07:00 append-head # 大学合集
+20231202 17:07:00 append-tail 1. 复旦大学
+20231202 17:07:00 append-tail 2. 上海交通大学
+20231202 17:07:00 list
+session start at 20231202 17:07:19
+20231202 17:07:19 load test3.md
+20231202 17:07:19 insert ## 程序设计
+20231202 17:07:19 append-head # 我的资源
+20231202 17:07:19 append-tail ### 软件设计
+20231202 17:07:19 load test4.md
+20231202 17:07:19 append-head # 大学合集
+20231202 17:07:19 append-tail 1. 复旦大学
+20231202 17:07:19 append-tail 2. 上海交通大学
+session start at 20231202 17:08:21
+20231202 17:08:21 load test3.md
+20231202 17:08:21 insert ## 程序设计
+20231202 17:08:21 append-head # 我的资源
+20231202 17:08:21 append-tail ### 软件设计
+20231202 17:08:21 load test4.md
+20231202 17:08:21 append-head # 大学合集
+20231202 17:08:21 append-tail 1. 复旦大学
+20231202 17:08:21 append-tail 2. 上海交通大学
+session start at 20231202 17:08:41
+20231202 17:08:41 load test3.md
+20231202 17:08:41 insert ## 程序设计
+20231202 17:08:41 append-head # 我的资源
+20231202 17:08:41 append-tail ### 软件设计
+20231202 17:08:41 load test4.md
+20231202 17:08:41 append-head # 大学合集
+20231202 17:08:41 append-tail 1. 复旦大学
+20231202 17:08:41 append-tail 2. 上海交通大学
+20231202 17:08:41 close
+session start at 20231202 17:13:03
+20231202 17:13:03 load test3.md
+20231202 17:13:03 insert ## 程序设计
+20231202 17:13:03 append-head # 我的资源
+20231202 17:13:03 append-tail ### 软件设计
+20231202 17:13:03 load test4.md
+20231202 17:13:03 append-head # 大学合集
+20231202 17:13:03 append-tail 1. 复旦大学
+20231202 17:13:03 append-tail 2. 上海交通大学
+session start at 20231202 17:14:15
+20231202 17:14:15 load test3.md
+20231202 17:14:15 insert ## 程序设计
+20231202 17:14:15 append-head # 我的资源
+20231202 17:14:15 append-tail ### 软件设计
+20231202 17:14:15 load test4.md
+20231202 17:14:15 append-head # 大学合集
+20231202 17:14:15 append-tail 1. 复旦大学
+20231202 17:14:15 append-tail 2. 上海交通大学
+20231202 17:14:15 save
+20231202 17:14:15 close
+session start at 20231202 17:14:37
+20231202 17:14:37 load test3.md
+20231202 17:14:37 insert ## 程序设计
+20231202 17:14:37 append-head # 我的资源
+20231202 17:14:37 append-tail ### 软件设计
+20231202 17:14:37 load test4.md
+20231202 17:14:37 append-head # 大学合集
+20231202 17:14:37 append-tail 1. 复旦大学
+20231202 17:14:37 append-tail 2. 上海交通大学
+20231202 17:14:37 save
+20231202 17:14:37 close
+session start at 20231202 17:14:49
+20231202 17:14:50 load test3.md
+20231202 17:14:50 insert ## 程序设计
+20231202 17:14:50 append-head # 我的资源
+20231202 17:14:50 append-tail ### 软件设计
+20231202 17:14:50 load test4.md
+20231202 17:14:50 append-head # 大学合集
+20231202 17:14:50 append-tail 1. 复旦大学
+20231202 17:14:50 append-tail 2. 上海交通大学
+20231202 17:14:50 save
+20231202 17:14:50 close
+session start at 20231202 17:17:20
+20231202 17:17:20 load test3.md
+20231202 17:17:20 insert ## 程序设计
+20231202 17:17:20 append-head # 我的资源
+20231202 17:17:20 append-tail ### 软件设计
+20231202 17:17:20 load test4.md
+20231202 17:17:20 append-head # 大学合集
+20231202 17:17:20 append-tail 1. 复旦大学
+20231202 17:17:20 append-tail 2. 上海交通大学
+20231202 17:17:20 save
+20231202 17:17:20 close
+session start at 20231202 17:17:53
+20231202 17:17:53 load test3.md
+20231202 17:17:53 insert ## 程序设计
+20231202 17:17:53 append-head # 我的资源
+20231202 17:17:53 append-tail ### 软件设计
+20231202 17:17:53 load test4.md
+20231202 17:17:53 append-head # 大学合集
+20231202 17:17:53 append-tail 1. 复旦大学
+20231202 17:17:53 append-tail 2. 上海交通大学
+20231202 17:17:53 save
+20231202 17:17:53 close
+session start at 20231202 17:19:55
+20231202 17:19:55 load test3.md
+20231202 17:19:55 insert ## 程序设计
+20231202 17:19:55 append-head # 我的资源
+20231202 17:19:55 append-tail ### 软件设计
+20231202 17:19:55 load test4.md
+20231202 17:19:55 append-head # 大学合集
+20231202 17:19:55 append-tail 1. 复旦大学
+20231202 17:19:55 append-tail 2. 上海交通大学
+20231202 17:19:55 save
+20231202 17:19:55 close
+20231202 17:19:55 open test3
+20231202 17:19:55 list-workspace
+session start at 20231202 17:21:59
+20231202 17:21:59 load test3.md
+20231202 17:21:59 insert ## 程序设计
+20231202 17:21:59 append-head # 我的资源
+20231202 17:21:59 append-tail ### 软件设计
+20231202 17:21:59 load test4.md
+20231202 17:21:59 append-head # 大学合集
+20231202 17:21:59 append-tail 1. 复旦大学
+20231202 17:21:59 append-tail 2. 上海交通大学
+20231202 17:21:59 save
+20231202 17:21:59 close
+20231202 17:21:59 open test3
+20231202 17:21:59 list-workspace
+20231202 17:21:59 save
+20231202 17:21:59 exit
+session start at 20231202 17:24:10
+20231202 17:24:11 ls
+session start at 20231202 17:27:13
+20231202 17:27:13 ls
+session start at 20231202 17:27:35
+20231202 17:27:35 load test5.md
+20231202 17:27:35 append-head # 书籍推荐
+20231202 17:27:35 append-tail * 《深入理解计算机系统》
+20231202 17:27:35 ls
+session start at 20231202 17:28:42
+20231202 17:28:42 load test5.md
+20231202 17:28:42 append-head # 书籍推荐
+20231202 17:28:42 append-tail * 《深入理解计算机系统》
+20231202 17:28:42 ls
+session start at 20231202 17:29:05
+20231202 17:29:05 load test5.md
+20231202 17:29:05 append-head # 书籍推荐
+20231202 17:29:05 append-tail * 《深入理解计算机系统》
+20231202 17:29:05 ls
+session start at 20231202 17:29:48
+20231202 17:29:48 load test1.md
+20231202 17:29:48 append-head # 旅行清单
+20231202 17:29:48 append-tail ## 亚洲
+20231202 17:29:48 append-tail 1. 中国
+20231202 17:29:48 append-tail 2. 日本
+20231202 17:29:48 load test2.md
+20231202 17:29:48 append-head # 书籍推荐
+20231202 17:29:48 append-tail ## 编程
+20231202 17:29:48 append-tail * 《设计模式的艺术》
+20231202 17:29:48 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231202 17:29:48 append-tail * 《深入理解Java虚拟机》
+20231202 17:29:48 list-tree
+20231202 17:29:48 list-workspace
+20231202 17:29:48 save
+20231202 17:29:48 list-workspace
+20231202 17:29:48 open test1
+20231202 17:29:48 list-workspace
+session start at 20231202 17:29:48
+20231202 17:29:48 load test3.md
+20231202 17:29:48 insert ## 程序设计
+20231202 17:29:48 append-head # 我的资源
+20231202 17:29:48 append-tail ### 软件设计
+20231202 17:29:48 load test4.md
+20231202 17:29:48 append-head # 大学合集
+20231202 17:29:48 append-tail 1. 复旦大学
+20231202 17:29:48 append-tail 2. 上海交通大学
+20231202 17:29:48 save
+20231202 17:29:48 close
+20231202 17:29:48 open test3
+20231202 17:29:48 list-workspace
+20231202 17:29:48 save
+20231202 17:29:48 exit
+session start at 20231202 17:29:48
+20231202 17:29:48 load test5.md
+20231202 17:29:48 append-head # 书籍推荐
+20231202 17:29:48 append-tail * 《深入理解计算机系统》
+20231202 17:29:48 ls
+session start at 20231202 17:29:48
+session start at 20231202 17:34:11
+20231202 17:34:11 load test6.md
+20231202 17:34:11 insert ## 程序设计
+20231202 17:34:11 append-head # 我的资源
+20231202 17:34:11 append-tail ### 软件设计
+20231202 17:34:11 save
+20231202 17:34:11 load test7.md
+20231202 17:34:11 append-head # 大学合集
+20231202 17:34:11 append-tail 1. 复旦大学
+20231202 17:34:11 append-tail 2. 上海交通大学
+20231202 17:34:11 undo
+20231202 17:34:11 list-tree
+session start at 20231202 17:38:10
+20231202 17:38:10 load test6.md
+20231202 17:38:10 insert ## 程序设计
+20231202 17:38:10 append-head # 我的资源
+20231202 17:38:10 append-tail ### 软件设计
+20231202 17:38:10 save
+20231202 17:38:10 load test7.md
+20231202 17:38:10 append-head # 大学合集
+20231202 17:38:10 append-tail 1. 复旦大学
+20231202 17:38:10 append-tail 2. 上海交通大学
+20231202 17:38:10 undo
+20231202 17:38:10 list-tree
+20231202 17:38:10 save
+20231202 17:38:10 exit
+session start at 20231202 17:38:10
+20231202 17:38:10 list-workspace
+session start at 20231202 17:40:37
+20231202 17:40:37 load test6.md
+20231202 17:40:37 insert ## 程序设计
+20231202 17:40:37 append-head # 我的资源
+20231202 17:40:37 append-tail ### 软件设计
+20231202 17:40:37 save
+20231202 17:40:37 load test7.md
+20231202 17:40:37 append-head # 大学合集
+20231202 17:40:37 append-tail 1. 复旦大学
+20231202 17:40:37 append-tail 2. 上海交通大学
+20231202 17:40:37 undo
+20231202 17:40:37 list-tree
+20231202 17:40:37 save
+20231202 17:40:37 exit
+session start at 20231202 17:40:37
+20231202 17:40:37 list-workspace
+20231202 17:40:37 redo
+20231202 17:40:37 list-tree
+session start at 20231202 17:40:49
+20231202 17:40:49 load test1.md
+20231202 17:40:49 append-head # 旅行清单
+20231202 17:40:49 append-tail ## 亚洲
+20231202 17:40:49 append-tail 1. 中国
+20231202 17:40:49 append-tail 2. 日本
+20231202 17:40:49 load test2.md
+20231202 17:40:49 append-head # 书籍推荐
+20231202 17:40:49 append-tail ## 编程
+20231202 17:40:49 append-tail * 《设计模式的艺术》
+20231202 17:40:49 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231202 17:40:49 append-tail * 《深入理解Java虚拟机》
+20231202 17:40:49 list-tree
+20231202 17:40:49 list-workspace
+session start at 20231202 17:40:49
+20231202 17:40:49 load test3.md
+20231202 17:40:49 insert ## 程序设计
+20231202 17:40:49 append-head # 我的资源
+20231202 17:40:49 append-tail ### 软件设计
+20231202 17:40:49 load test4.md
+20231202 17:40:49 append-head # 大学合集
+20231202 17:40:49 append-tail 1. 复旦大学
+20231202 17:40:49 append-tail 2. 上海交通大学
+20231202 17:40:49 save
+20231202 17:40:49 close
+20231202 17:40:49 open test3
+20231202 17:40:49 list-workspace
+20231202 17:40:49 save
+20231202 17:40:49 exit
+session start at 20231202 17:40:49
+20231202 17:40:49 load test5.md
+20231202 17:40:49 append-head # 书籍推荐
+20231202 17:40:49 append-tail * 《深入理解计算机系统》
+20231202 17:40:49 ls
+session start at 20231202 17:40:49
+20231202 17:40:49 load test6.md
+20231202 17:40:49 insert ## 程序设计
+20231202 17:40:49 append-head # 我的资源
+20231202 17:40:49 append-tail ### 软件设计
+20231202 17:40:49 save
+20231202 17:40:49 load test7.md
+20231202 17:40:49 append-head # 大学合集
+20231202 17:40:49 append-tail 1. 复旦大学
+20231202 17:40:49 append-tail 2. 上海交通大学
+20231202 17:40:49 undo
+20231202 17:40:49 list-tree
+20231202 17:40:49 save
+20231202 17:40:49 exit
+session start at 20231202 17:40:49
+20231202 17:40:49 list-workspace
+20231202 17:40:49 redo
+20231202 17:40:49 list-tree
+session start at 20231202 17:41:25
+20231202 17:41:25 load test1.md
+20231202 17:41:25 append-head # 旅行清单
+20231202 17:41:25 append-tail ## 亚洲
+20231202 17:41:25 append-tail 1. 中国
+20231202 17:41:25 append-tail 2. 日本
+20231202 17:41:25 load test2.md
+20231202 17:41:25 append-head # 书籍推荐
+20231202 17:41:25 append-tail ## 编程
+20231202 17:41:25 append-tail * 《设计模式的艺术》
+20231202 17:41:25 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231202 17:41:25 append-tail * 《深入理解Java虚拟机》
+20231202 17:41:25 list-tree
+20231202 17:41:25 list-workspace
+session start at 20231202 17:41:55
+20231202 17:41:55 load test3.md
+20231202 17:41:55 insert ## 程序设计
+20231202 17:41:55 append-head # 我的资源
+20231202 17:41:55 append-tail ### 软件设计
+20231202 17:41:55 load test4.md
+20231202 17:41:55 append-head # 大学合集
+20231202 17:41:55 append-tail 1. 复旦大学
+20231202 17:41:55 append-tail 2. 上海交通大学
+20231202 17:41:55 save
+20231202 17:41:55 close
+20231202 17:41:55 open test3
+20231202 17:41:55 list-workspace
+20231202 17:41:55 save
+20231202 17:41:55 exit
+session start at 20231202 17:42:38
+20231202 17:42:38 load test1.md
+20231202 17:42:38 append-head # 旅行清单
+20231202 17:42:38 append-tail ## 亚洲
+20231202 17:42:38 append-tail 1. 中国
+20231202 17:42:38 append-tail 2. 日本
+20231202 17:42:38 load test2.md
+20231202 17:42:38 append-head # 书籍推荐
+20231202 17:42:38 append-tail ## 编程
+20231202 17:42:38 append-tail * 《设计模式的艺术》
+20231202 17:42:38 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231202 17:42:38 append-tail * 《深入理解Java虚拟机》
+20231202 17:42:38 list-tree
+20231202 17:42:38 list-workspace
+session start at 20231202 17:43:13
+20231202 17:43:13 load test1.md
+20231202 17:43:13 append-head # 旅行清单
+20231202 17:43:13 append-tail ## 亚洲
+20231202 17:43:13 append-tail 1. 中国
+20231202 17:43:13 append-tail 2. 日本
+20231202 17:43:13 load test2.md
+20231202 17:43:13 append-head # 书籍推荐
+20231202 17:43:13 append-tail ## 编程
+20231202 17:43:13 append-tail * 《设计模式的艺术》
+20231202 17:43:13 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231202 17:43:13 append-tail * 《深入理解Java虚拟机》
+20231202 17:43:13 list-tree
+20231202 17:43:13 list-workspace
+20231202 17:43:13 save
+20231202 17:43:13 list-workspace
+20231202 17:43:13 open test1
+20231202 17:43:13 list-workspace
+session start at 20231202 17:43:19
+20231202 17:43:19 load test1.md
+20231202 17:43:19 append-head # 旅行清单
+20231202 17:43:19 append-tail ## 亚洲
+20231202 17:43:19 append-tail 1. 中国
+20231202 17:43:19 append-tail 2. 日本
+20231202 17:43:19 load test2.md
+20231202 17:43:19 append-head # 书籍推荐
+20231202 17:43:19 append-tail ## 编程
+20231202 17:43:19 append-tail * 《设计模式的艺术》
+20231202 17:43:19 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231202 17:43:19 append-tail * 《深入理解Java虚拟机》
+20231202 17:43:19 list-tree
+20231202 17:43:19 list-workspace
+20231202 17:43:19 save
+20231202 17:43:19 list-workspace
+20231202 17:43:19 open test1
+20231202 17:43:19 list-workspace
+session start at 20231202 17:43:19
+20231202 17:43:19 load test3.md
+20231202 17:43:19 insert ## 程序设计
+20231202 17:43:19 append-head # 我的资源
+20231202 17:43:19 append-tail ### 软件设计
+20231202 17:43:19 load test4.md
+20231202 17:43:19 append-head # 大学合集
+20231202 17:43:19 append-tail 1. 复旦大学
+20231202 17:43:19 append-tail 2. 上海交通大学
+20231202 17:43:19 save
+20231202 17:43:19 close
+20231202 17:43:19 open test3
+20231202 17:43:19 list-workspace
+20231202 17:43:19 save
+20231202 17:43:19 exit
+session start at 20231202 17:43:19
+20231202 17:43:19 load test5.md
+20231202 17:43:19 append-head # 书籍推荐
+20231202 17:43:19 append-tail * 《深入理解计算机系统》
+20231202 17:43:19 ls
+session start at 20231202 17:43:19
+20231202 17:43:19 load test6.md
+20231202 17:43:19 insert ## 程序设计
+20231202 17:43:19 append-head # 我的资源
+20231202 17:43:19 append-tail ### 软件设计
+20231202 17:43:19 save
+20231202 17:43:19 load test7.md
+20231202 17:43:19 append-head # 大学合集
+20231202 17:43:19 append-tail 1. 复旦大学
+20231202 17:43:19 append-tail 2. 上海交通大学
+20231202 17:43:19 undo
+20231202 17:43:19 list-tree
+20231202 17:43:19 save
+20231202 17:43:19 exit
+session start at 20231202 17:43:19
+20231202 17:43:19 list-workspace
+20231202 17:43:19 redo
+20231202 17:43:19 list-tree
+session start at 20231202 17:43:27
+20231202 17:43:27 load test1.md
+20231202 17:43:27 append-head # 旅行清单
+20231202 17:43:27 append-tail ## 亚洲
+20231202 17:43:27 append-tail 1. 中国
+20231202 17:43:27 append-tail 2. 日本
+20231202 17:43:27 load test2.md
+20231202 17:43:27 append-head # 书籍推荐
+20231202 17:43:27 append-tail ## 编程
+20231202 17:43:27 append-tail * 《设计模式的艺术》
+20231202 17:43:27 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231202 17:43:27 append-tail * 《深入理解Java虚拟机》
+20231202 17:43:27 list-tree
+20231202 17:43:27 list-workspace
+session start at 20231202 17:43:37
+20231202 17:43:37 load test1.md
+20231202 17:43:37 append-head # 旅行清单
+20231202 17:43:37 append-tail ## 亚洲
+20231202 17:43:37 append-tail 1. 中国
+20231202 17:43:37 append-tail 2. 日本
+20231202 17:43:37 load test2.md
+20231202 17:43:37 append-head # 书籍推荐
+20231202 17:43:37 append-tail ## 编程
+20231202 17:43:37 append-tail * 《设计模式的艺术》
+20231202 17:43:37 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231202 17:43:37 append-tail * 《深入理解Java虚拟机》
+20231202 17:43:37 list-tree
+20231202 17:43:37 list-workspace
+20231202 17:43:37 save
+20231202 17:43:37 list-workspace
+20231202 17:43:37 open test1
+20231202 17:43:37 list-workspace
+session start at 20231202 17:43:37
+20231202 17:43:37 load test3.md
+20231202 17:43:37 insert ## 程序设计
+20231202 17:43:37 append-head # 我的资源
+20231202 17:43:37 append-tail ### 软件设计
+20231202 17:43:37 load test4.md
+20231202 17:43:37 append-head # 大学合集
+20231202 17:43:37 append-tail 1. 复旦大学
+20231202 17:43:37 append-tail 2. 上海交通大学
+20231202 17:43:37 save
+20231202 17:43:37 close
+20231202 17:43:37 open test3
+20231202 17:43:37 list-workspace
+20231202 17:43:37 save
+20231202 17:43:37 exit
+session start at 20231202 17:43:37
+20231202 17:43:37 load test5.md
+20231202 17:43:37 append-head # 书籍推荐
+20231202 17:43:37 append-tail * 《深入理解计算机系统》
+20231202 17:43:37 ls
+session start at 20231202 17:43:37
+20231202 17:43:37 load test6.md
+20231202 17:43:37 insert ## 程序设计
+20231202 17:43:37 append-head # 我的资源
+20231202 17:43:37 append-tail ### 软件设计
+20231202 17:43:37 save
+20231202 17:43:37 load test7.md
+20231202 17:43:37 append-head # 大学合集
+20231202 17:43:37 append-tail 1. 复旦大学
+20231202 17:43:37 append-tail 2. 上海交通大学
+20231202 17:43:37 undo
+20231202 17:43:37 list-tree
+20231202 17:43:37 save
+20231202 17:43:37 exit
+session start at 20231202 17:43:37
+20231202 17:43:37 list-workspace
+20231202 17:43:37 redo
+20231202 17:43:37 list-tree
+session start at 20231202 17:44:18
+20231202 17:44:18 load test1.md
+20231202 17:44:18 append-head # 旅行清单
+20231202 17:44:18 append-tail ## 亚洲
+20231202 17:44:18 append-tail 1. 中国
+20231202 17:44:18 append-tail 2. 日本
+20231202 17:44:18 load test2.md
+20231202 17:44:18 append-head # 书籍推荐
+20231202 17:44:18 append-tail ## 编程
+20231202 17:44:18 append-tail * 《设计模式的艺术》
+20231202 17:44:18 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231202 17:44:18 append-tail * 《深入理解Java虚拟机》
+20231202 17:44:18 list-tree
+20231202 17:44:18 list-workspace
+20231202 17:44:18 save
+20231202 17:44:18 list-workspace
+20231202 17:44:18 open test1
+20231202 17:44:18 list-workspace
+session start at 20231202 17:44:18
+20231202 17:44:18 load test3.md
+20231202 17:44:18 insert ## 程序设计
+20231202 17:44:18 append-head # 我的资源
+20231202 17:44:18 append-tail ### 软件设计
+20231202 17:44:18 load test4.md
+20231202 17:44:18 append-head # 大学合集
+20231202 17:44:18 append-tail 1. 复旦大学
+20231202 17:44:18 append-tail 2. 上海交通大学
+20231202 17:44:18 save
+20231202 17:44:18 close
+20231202 17:44:18 open test3
+20231202 17:44:18 list-workspace
+20231202 17:44:18 save
+20231202 17:44:18 exit
+session start at 20231202 17:44:18
+20231202 17:44:18 load test5.md
+20231202 17:44:18 append-head # 书籍推荐
+20231202 17:44:18 append-tail * 《深入理解计算机系统》
+20231202 17:44:18 ls
+session start at 20231202 17:44:18
+20231202 17:44:18 load test6.md
+20231202 17:44:18 insert ## 程序设计
+20231202 17:44:18 append-head # 我的资源
+20231202 17:44:18 append-tail ### 软件设计
+20231202 17:44:18 save
+20231202 17:44:18 load test7.md
+20231202 17:44:18 append-head # 大学合集
+20231202 17:44:18 append-tail 1. 复旦大学
+20231202 17:44:18 append-tail 2. 上海交通大学
+20231202 17:44:18 undo
+20231202 17:44:18 list-tree
+20231202 17:44:18 save
+20231202 17:44:18 exit
+session start at 20231202 17:44:18
+20231202 17:44:18 list-workspace
+20231202 17:44:18 redo
+20231202 17:44:18 list-tree
+session start at 20231202 17:44:30
+20231202 17:44:30 load test1.md
+20231202 17:44:30 append-head # 旅行清单
+20231202 17:44:30 append-tail ## 亚洲
+20231202 17:44:30 append-tail 1. 中国
+20231202 17:44:30 append-tail 2. 日本
+20231202 17:44:30 load test2.md
+20231202 17:44:30 append-head # 书籍推荐
+20231202 17:44:30 append-tail ## 编程
+20231202 17:44:30 append-tail * 《设计模式的艺术》
+20231202 17:44:30 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231202 17:44:30 append-tail * 《深入理解Java虚拟机》
+20231202 17:44:30 list-tree
+20231202 17:44:30 list-workspace
+20231202 17:44:30 save
+20231202 17:44:30 list-workspace
+20231202 17:44:30 open test1
+20231202 17:44:30 list-workspace
+session start at 20231202 17:44:36
+20231202 17:44:36 load test1.md
+20231202 17:44:36 append-head # 旅行清单
+20231202 17:44:36 append-tail ## 亚洲
+20231202 17:44:36 append-tail 1. 中国
+20231202 17:44:36 append-tail 2. 日本
+20231202 17:44:36 load test2.md
+20231202 17:44:36 append-head # 书籍推荐
+20231202 17:44:36 append-tail ## 编程
+20231202 17:44:36 append-tail * 《设计模式的艺术》
+20231202 17:44:36 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231202 17:44:36 append-tail * 《深入理解Java虚拟机》
+20231202 17:44:36 list-tree
+20231202 17:44:36 list-workspace
+20231202 17:44:36 save
+20231202 17:44:36 list-workspace
+20231202 17:44:36 open test1
+20231202 17:44:36 list-workspace
+session start at 20231202 17:44:36
+20231202 17:44:36 load test3.md
+20231202 17:44:36 insert ## 程序设计
+20231202 17:44:36 append-head # 我的资源
+20231202 17:44:36 append-tail ### 软件设计
+20231202 17:44:36 load test4.md
+20231202 17:44:36 append-head # 大学合集
+20231202 17:44:36 append-tail 1. 复旦大学
+20231202 17:44:36 append-tail 2. 上海交通大学
+20231202 17:44:36 save
+20231202 17:44:36 close
+20231202 17:44:36 open test3
+20231202 17:44:36 list-workspace
+20231202 17:44:36 save
+20231202 17:44:36 exit
+session start at 20231202 17:44:36
+20231202 17:44:36 load test5.md
+20231202 17:44:36 append-head # 书籍推荐
+20231202 17:44:36 append-tail * 《深入理解计算机系统》
+20231202 17:44:36 ls
+session start at 20231202 17:44:36
+20231202 17:44:36 load test6.md
+20231202 17:44:36 insert ## 程序设计
+20231202 17:44:36 append-head # 我的资源
+20231202 17:44:37 append-tail ### 软件设计
+20231202 17:44:37 save
+20231202 17:44:37 load test7.md
+20231202 17:44:37 append-head # 大学合集
+20231202 17:44:37 append-tail 1. 复旦大学
+20231202 17:44:37 append-tail 2. 上海交通大学
+20231202 17:44:37 undo
+20231202 17:44:37 list-tree
+20231202 17:44:37 save
+20231202 17:44:37 exit
+session start at 20231202 17:44:37
+20231202 17:44:37 list-workspace
+20231202 17:44:37 redo
+20231202 17:44:37 list-tree
+session start at 20231202 19:03:40
+20231202 19:03:40 load test1.md
+20231202 19:03:40 append-head # 旅行清单
+20231202 19:03:40 append-tail ## 亚洲
+20231202 19:03:40 append-tail 1. 中国
+20231202 19:03:40 append-tail 2. 日本
+20231202 19:03:40 load test2.md
+20231202 19:03:40 append-head # 书籍推荐
+20231202 19:03:40 append-tail ## 编程
+20231202 19:03:40 append-tail * 《设计模式的艺术》
+20231202 19:03:40 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231202 19:03:40 append-tail * 《深入理解Java虚拟机》
+20231202 19:03:40 list-tree
+20231202 19:03:40 list-workspace
+20231202 19:03:40 save
+20231202 19:03:40 list-workspace
+20231202 19:03:40 open test1
+20231202 19:03:40 list-workspace
+session start at 20231202 19:03:41
+20231202 19:03:41 load test3.md
+20231202 19:03:41 insert ## 程序设计
+20231202 19:03:41 append-head # 我的资源
+20231202 19:03:41 append-tail ### 软件设计
+20231202 19:03:41 load test4.md
+20231202 19:03:41 append-head # 大学合集
+20231202 19:03:41 append-tail 1. 复旦大学
+20231202 19:03:41 append-tail 2. 上海交通大学
+20231202 19:03:41 save
+20231202 19:03:41 close
+20231202 19:03:41 open test3
+20231202 19:03:41 list-workspace
+20231202 19:03:41 save
+20231202 19:03:41 exit
+session start at 20231202 19:03:41
+20231202 19:03:41 load test5.md
+20231202 19:03:41 append-head # 书籍推荐
+20231202 19:03:41 append-tail * 《深入理解计算机系统》
+20231202 19:03:41 ls
+session start at 20231202 19:03:41
+20231202 19:03:41 load test6.md
+20231202 19:03:41 insert ## 程序设计
+20231202 19:03:41 append-head # 我的资源
+20231202 19:03:41 append-tail ### 软件设计
+20231202 19:03:41 save
+20231202 19:03:41 load test7.md
+20231202 19:03:41 append-head # 大学合集
+20231202 19:03:41 append-tail 1. 复旦大学
+20231202 19:03:41 append-tail 2. 上海交通大学
+20231202 19:03:41 undo
+20231202 19:03:41 list-tree
+20231202 19:03:41 save
+20231202 19:03:41 exit
+session start at 20231202 19:03:41
+20231202 19:03:41 list-workspace
+20231202 19:03:41 redo
+20231202 19:03:41 list-tree
+session start at 20231202 19:14:47
+20231202 19:20:07 load books.md
+20231202 19:21:52 load books.md
+20231202 19:21:52 insert 1 # books
+20231202 19:22:23 load books.md
+20231202 19:22:23 insert 1 # books
+20231202 19:22:56 load books.md
+20231202 19:22:56 insert 1 # books
+20231202 19:23:17 load books.md
+20231202 19:23:17 insert 1 # books
+session start at 20231202 19:24:06
+20231202 19:27:32 load books.md
+20231202 19:27:32 insert 1 # books
+session start at 20231202 19:27:32
+session start at 20231202 19:27:50
+20231202 19:27:50 load test1.md
+20231202 19:27:50 append-head # 旅行清单
+20231202 19:27:50 append-tail ## 亚洲
+20231202 19:27:50 append-tail 1. 中国
+20231202 19:27:50 append-tail 2. 日本
+20231202 19:27:50 load test2.md
+20231202 19:27:50 append-head # 书籍推荐
+20231202 19:27:50 append-tail ## 编程
+20231202 19:27:50 append-tail * 《设计模式的艺术》
+20231202 19:27:50 append-tail * 《云原生：运用容器、函数计算和数据构建下一代应用》
+20231202 19:27:50 append-tail * 《深入理解Java虚拟机》
+20231202 19:27:50 list-tree
+20231202 19:27:50 list-workspace
+20231202 19:27:50 save
+20231202 19:27:50 list-workspace
+20231202 19:27:50 open test1
+20231202 19:27:50 list-workspace
+session start at 20231202 19:27:50
+20231202 19:27:50 load test3.md
+20231202 19:27:50 insert ## 程序设计
+20231202 19:27:50 append-head # 我的资源
+20231202 19:27:50 append-tail ### 软件设计
+20231202 19:27:50 load test4.md
+20231202 19:27:50 append-head # 大学合集
+20231202 19:27:50 append-tail 1. 复旦大学
+20231202 19:27:50 append-tail 2. 上海交通大学
+20231202 19:27:50 save
+20231202 19:27:50 close
+20231202 19:27:50 open test3
+20231202 19:27:50 list-workspace
+20231202 19:27:50 save
+20231202 19:27:51 exit
+session start at 20231202 19:27:51
+20231202 19:27:51 load test5.md
+20231202 19:27:51 append-head # 书籍推荐
+20231202 19:27:51 append-tail * 《深入理解计算机系统》
+20231202 19:27:51 ls
+session start at 20231202 19:27:51
+20231202 19:27:51 load test6.md
+20231202 19:27:51 insert ## 程序设计
+20231202 19:27:51 append-head # 我的资源
+20231202 19:27:51 append-tail ### 软件设计
+20231202 19:27:51 save
+20231202 19:27:51 load test7.md
+20231202 19:27:51 append-head # 大学合集
+20231202 19:27:51 append-tail 1. 复旦大学
+20231202 19:27:51 append-tail 2. 上海交通大学
+20231202 19:27:51 undo
+20231202 19:27:51 list-tree
+20231202 19:27:51 save
+20231202 19:27:51 exit
+session start at 20231202 19:27:51
+20231202 19:27:51 list-workspace
+20231202 19:27:51 redo
+20231202 19:27:51 list-tree
+session start at 20231202 20:07:14
+20231202 20:07:19 ls
+20231202 20:07:26 list-workspace
+20231202 20:07:30 close
+session start at 20231202 20:08:33
+20231202 20:08:39 list-workspace
+20231202 20:08:41 close
+20231202 20:08:47 list-workspace
+20231202 20:08:50 exit
+session start at 20231202 20:08:54
+session start at 20231202 20:10:14
+20231202 20:10:20 list-workspace
+session start at 20231202 20:10:44
+20231202 20:10:49 list-workspace
+session start at 20231202 20:11:25
+20231202 20:11:25 load test6.md
+20231202 20:11:25 insert ## 程序设计
+20231202 20:11:25 append-head # 我的资源
+20231202 20:11:25 append-tail ### 软件设计
+20231202 20:11:25 save
+20231202 20:11:25 load test7.md
+20231202 20:11:25 append-head # 大学合集
+20231202 20:11:25 append-tail 1. 复旦大学
+20231202 20:11:25 append-tail 2. 上海交通大学
+20231202 20:11:25 undo
+20231202 20:11:25 list-tree
+20231202 20:11:25 save
+20231202 20:11:25 exit
+session start at 20231202 20:11:25
+20231202 20:11:25 list-workspace
+20231202 20:11:25 redo
+20231202 20:11:25 list-tree
+session start at 20231202 20:11:30
+20231202 20:11:30 load test6.md
+20231202 20:11:30 insert ## 程序设计
+20231202 20:11:30 append-head # 我的资源
+20231202 20:11:30 append-tail ### 软件设计
+20231202 20:11:30 save
+20231202 20:11:30 load test7.md
+20231202 20:11:30 append-head # 大学合集
+20231202 20:11:30 append-tail 1. 复旦大学
+20231202 20:11:30 append-tail 2. 上海交通大学
+20231202 20:11:30 undo
+20231202 20:11:30 list-tree
+20231202 20:11:30 save
+20231202 20:11:30 exit
+session start at 20231202 20:11:30
+20231202 20:11:30 list-workspace
+20231202 20:11:30 redo
+20231202 20:11:30 list-tree
+session start at 20231202 20:11:39
+20231202 20:11:44 list-workspace
+20231202 20:11:47 close
+20231202 20:11:52 list-workspace
+20231202 20:11:54 exit
+session start at 20231202 20:11:58
+session start at 20231202 20:12:59
+20231202 20:12:59 load test6.md
+20231202 20:12:59 insert ## 程序设计
+20231202 20:12:59 append-head # 我的资源
+20231202 20:12:59 append-tail ### 软件设计
+20231202 20:12:59 save
+20231202 20:12:59 load test7.md
+20231202 20:12:59 append-head # 大学合集
+20231202 20:12:59 append-tail 1. 复旦大学
+20231202 20:12:59 append-tail 2. 上海交通大学
+20231202 20:12:59 undo
+20231202 20:12:59 list-tree
+20231202 20:12:59 save
+20231202 20:12:59 exit
+session start at 20231202 20:12:59
+20231202 20:12:59 list-workspace
+20231202 20:12:59 redo
+20231202 20:12:59 list-tree
+session start at 20231202 20:13:06
+20231202 20:13:08 ls
+20231202 20:13:13 close
+20231202 20:13:19 list-workspace
+20231202 20:13:22 exit
+session start at 20231202 20:13:26
+20231202 20:13:31 list-workspace
+20231202 20:13:48 ls
+20231202 20:13:53 open test6
+20231202 20:13:55 ls
+20231202 20:14:01 exit
+session start at 20240104 11:18:47
+20240104 11:18:51 ls
+20240104 11:19:03 list-workspace
+20240104 11:19:07 list
+20240104 11:19:12 list-tree
+20240104 11:19:26 insert 1 # 大标题
+20240104 11:19:29 ls
+20240104 11:19:32 list
+20240104 11:19:39 save
+20240104 11:19:39 close
+20240104 11:19:50 list-workspace
+20240104 11:19:59 open test7
+20240104 11:20:06 ls
+20240104 11:20:12 load test7.md
+20240104 11:20:14 ls
+20240104 11:20:17 list
+20240104 11:20:24 exit
+session start at 20240725 12:16:09
+20240725 12:16:15 ls
+20240725 12:17:30 load test1.md
+20240725 12:17:36 ls
+20240725 12:17:56 append-head # 旅行清单
+20240725 12:18:00 list
+20240725 12:18:18 load test2.md
+20240725 12:18:29 save
+20240725 12:18:29 exit
+session start at 20240725 12:18:34
+20240725 12:18:38 ls
+20240725 12:18:51 load test1.md
+20240725 12:18:53 ls
+20240725 12:18:55 list
